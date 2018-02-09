@@ -1,0 +1,16 @@
+PODS:
+  - SwiftQiNiu (0.1.0)
+
+DEPENDENCIES:
+  - SwiftQiNiu (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftQiNiu:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SwiftQiNiu: af0f9d0a1dc3afe519b80b13b54ca64cbae9b75e
+
+PODFILE CHECKSUM: 0c997af93d202b44600f550ecfcde256884e67a8
+
+COCOAPODS: 1.3.1
