@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftQiNiu_Tests' do
+  pod 'SwiftQiNiu', :path => '../'
+  
+  
+end
